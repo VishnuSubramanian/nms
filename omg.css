@@ -1,0 +1,27 @@
+.name
+{
+	font-size: 30px;
+	font-family: arial;
+	color:green;
+	background:green;
+	display:block;
+	width: 1px;
+	height: 1px;
+	margin: 10px;
+	border-bottom: 10px solid yellow;
+	padding: 10px;
+	
+
+}
+h2
+{
+	font-size: 20px;
+	font-family: arial black;
+	color:green;
+	width: 30px 40px 0 10px;
+	height: 50px 30px 10px 0;
+	margin: 30px 10px 50px 0;
+	padding: 30px;
+	display:block;
+	border-bottom: 10px solid blue;
+}
